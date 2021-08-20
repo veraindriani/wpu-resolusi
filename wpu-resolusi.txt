@@ -3,3 +3,4 @@ WPU RESOLUSI
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
 - kolaborasi dengan lebih banyak expert
+- membuat vlog
